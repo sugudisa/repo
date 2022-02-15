@@ -1,0 +1,16 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9C86-D6F3
+
+ Directory of C:\Users\stuth\Desktop\project
+
+15-02-2022  17:17    <DIR>          .
+15-02-2022  17:17    <DIR>          ..
+15-02-2022  17:08                 0 git.html.txt
+15-02-2022  16:53                11 README.md
+15-02-2022  17:17               486 sudha.txt
+15-02-2022  17:17                 0 sudha1.txt
+15-02-2022  17:08                 3 test1.txt
+               5 File(s)            500 bytes
+               2 Dir(s)  53,519,876,096 bytes free
+
+qwewascszcdsdsv
