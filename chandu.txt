@@ -1,0 +1,10 @@
+total 7
+-rw-r--r-- 1 stuth 197609   0 Feb 15 21:13 chandu.txt
+-rw-r--r-- 1 stuth 197609  82 Feb 15 20:29 child.txt
+-rw-r--r-- 1 stuth 197609  94 Feb 15 20:58 child2.txt
+-rw-r--r-- 1 stuth 197609   0 Feb 15 17:21 git.html.txt
+-rw-r--r-- 1 stuth 197609  11 Feb 15 17:21 README.md
+-rw-r--r-- 1 stuth 197609 486 Feb 15 17:21 sudha.txt
+-rw-r--r-- 1 stuth 197609 553 Feb 15 17:21 sudha1.txt
+-rw-r--r-- 1 stuth 197609  69 Feb 15 17:22 sudha3.txt
+-rw-r--r-- 1 stuth 197609   3 Feb 15 17:21 test1.txt
