@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9C86-D6F3
+
+ Directory of C:\Users\stuth\Desktop\project
+
+15-02-2022  16:40    <DIR>          .
+15-02-2022  16:40    <DIR>          ..
+15-02-2022  16:40                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  53,503,221,760 bytes free
